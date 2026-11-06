@@ -26,13 +26,13 @@
 | Components | [notes](<fundamentals/os/components.md>) |
 | System calls | [notes](<fundamentals/os/syscalls.md>) |
 | OS boots up | [notes](<fundamentals/os/boot.md>) |
-| 32-bit vs 64-bit | [notes](<fundamentals/os/bitness.md>) |
+| 32-bit vs 64-bit | [notes](<fundamentals/os/bits.md>) |
 | Storage devices basics | [notes](<fundamentals/os/storage.md>) |
 | Introduction to process | [notes](<fundamentals/os/process.md>) |
 | Process states & process queues | [notes](<fundamentals/os/states.md>) |
 | Swapping, context switching, orphan & zombie process | [notes](<fundamentals/os/swapping.md>) |
-| Process scheduling, FCFS, convoy effect | [notes](<fundamentals/os/fcfs.md>) |
-| CPU scheduling: SJF, priority, round robin | [notes](<fundamentals/os/roundrobin.md>) |
+| Process scheduling, FCFS, convoy effect | [notes](<fundamentals/os/scheduling1.md>) |
+| CPU scheduling: SJF, priority, round robin | [notes](<fundamentals/os/scheduling2.md>) |
 | MLQ & MLFQ | [notes](<fundamentals/os/multilevel.md>) |
 | Introduction to Concurrency | [notes](<fundamentals/os/concurrency.md>) |
 | Critical Section Problem | [notes](<fundamentals/os/critical.md>) |
@@ -40,9 +40,9 @@
 | Producer-Consumer Problem | [notes](<fundamentals/os/producer.md>) |
 | Reader-Writer Problem | [notes](<fundamentals/os/readers.md>) |
 | Dining Philosophers Problem | [notes](<fundamentals/os/dining.md>) |
-| Deadlock basics | [notes](<fundamentals/os/deadlock.md>) |
-| Deadlock avoidance & recovery | [notes](<fundamentals/os/avoidance.md>) |
-| Concurrency coding exercises | [notes](<fundamentals/os/ordering.md>) |
+| Deadlock basics | [notes](<fundamentals/os/deadlock1.md>) |
+| Deadlock avoidance & recovery | [notes](<fundamentals/os/deadlock2.md>) |
+| Concurrency coding exercises | [notes](<fundamentals/os/problems.md>) |
 
 ### Object Oriented Programming
 | Topic | File |
