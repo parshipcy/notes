@@ -44,6 +44,7 @@
 | Deadlock avoidance & recovery | [notes](<fundamentals/os/deadlock2.md>) |
 | Concurrency coding exercises | [notes](<fundamentals/os/problems.md>) |
 | Memory management: Contiguous memory allocation | [notes](<fundamentals/os/memory1.md>) |
+| Memory management: Free Space Management | [notes](<fundamentals/os/memory2.md>) |
 
 ### Object Oriented Programming
 | Topic | File |
