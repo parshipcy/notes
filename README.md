@@ -46,6 +46,7 @@
 | Memory management: Contiguous memory allocation | [notes](<fundamentals/os/memory1.md>) |
 | Memory management: Free Space Management | [notes](<fundamentals/os/memory2.md>) |
 | Paging: Non-Contiguous Memory Allocation | [notes](<fundamentals/os/paging.md>) |
+| Segmentation: Non-Contiguous Memory Allocation | [notes](<fundamentals/os/segmentation.md>) |
 
 ### Object Oriented Programming
 | Topic | File |
