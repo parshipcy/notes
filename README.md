@@ -47,6 +47,7 @@
 | Memory management: Free Space Management | [notes](<fundamentals/os/memory2.md>) |
 | Paging: Non-Contiguous Memory Allocation | [notes](<fundamentals/os/paging.md>) |
 | Segmentation: Non-Contiguous Memory Allocation | [notes](<fundamentals/os/segmentation.md>) |
+| Virtual Memory, Demand Paging & Page Faults | [notes](<fundamentals/os/virtual-memory.md>) |
 
 ### Object Oriented Programming
 | Topic | File |
